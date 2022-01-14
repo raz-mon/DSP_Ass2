@@ -1,2 +1,2 @@
 Manifest-Version: 1.0
-Main-Class: step6
+Main-Class: Main
