@@ -1,0 +1,16 @@
+#Usefull links:
+
+## EMR
+- https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-common-programming-sample.html
+
+- https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-common-programming-sample.html
+
+- https://docs.aws.amazon.com/code-samples/latest/catalog/code-catalog-java-example_code-emr.html
+
+- https://github.com/awsdocs/amazon-emr-management-guide/tree/main/doc_source
+
+- https://github.com/awsdocs/aws-doc-sdk-examples/blob/main/javav2/example_code/emr/src/main/java/aws/example/emr/AddSteps.java
+
+- https://dzone.com/articles/how-run-elastic-mapreduce-job
+## Hadoop
+- Download Hadoop 3.2.1: https://kontext.tech/column/hadoop/377/latest-hadoop-321-installation-on-windows-10-step-by-step-guide
