@@ -2,9 +2,7 @@
 
 Submitting:
 
-Raz Monsonego: 313292120
-
-Almog Zemach: 205789001
+Raz Monsonego & Almog Zemach.
 
 # Project Goal
 
